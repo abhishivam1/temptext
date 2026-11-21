@@ -1,0 +1,6 @@
+/config.php
+/*.zip
+/.well-known/
+/cgi-bin/
+/.DS_Store
+Thumbs.db

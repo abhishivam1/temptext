@@ -54,4 +54,4 @@ php -l config.php.example
 
 ## License
 
-No license has been granted yet. Contact the repository owner before reusing or distributing the code.
+Licensed under the [GNU General Public License v3.0](LICENSE). You may use, modify, and redistribute this project under the terms of that license.
